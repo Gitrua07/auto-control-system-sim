@@ -7,7 +7,7 @@ critical section criteria and avoid race conditions.
 
 ## Program Output
 The program will output the following...
-* The time the train is doing this action represented in 'hour:minute:second:millisecond' format.
+* The time the train action being outputted was executed; which is represented in the 'hour:minute:second:millisecond' format.
 * When the train is ready to deployed onto the track.
 * When the train is on the main track.
 * When the train is off the main track.
